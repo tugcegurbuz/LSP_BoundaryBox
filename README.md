@@ -1,2 +1,2 @@
 # LSP_BoundaryBox
-Creates boundary boxes for Leeds Sports Pose Dataset
+Creates boundary boxes of the body parts given the images of Leeds Sports Pose Dataset
